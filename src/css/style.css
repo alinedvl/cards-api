@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+
+body{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,165,0.8911939775910365) 50%, rgba(252,176,69,1) 100%);
+}
+
+.cartas{
+    margin-top: 35px;
+    text-align: center;
+}
+
+.cartas h1{
+    font-family: 'Cormorant Infant', serif;
+    letter-spacing: 2px;    
+    font-size: 21px;
+    text-transform: uppercase;
+    color: #eee6ff;
+}
+
+#tirar-carta{
+    margin-top: 15px;
+}
+
